@@ -1,0 +1,5 @@
+C:\Users\Phan Thai Nam\Documents\Projects\2\2\obj\x86\Debug\2.csprojResolveAssemblyReference.cache
+C:\Users\Phan Thai Nam\Documents\Projects\2\2\bin\Debug\2.exe
+C:\Users\Phan Thai Nam\Documents\Projects\2\2\bin\Debug\2.pdb
+C:\Users\Phan Thai Nam\Documents\Projects\2\2\obj\x86\Debug\2.exe
+C:\Users\Phan Thai Nam\Documents\Projects\2\2\obj\x86\Debug\2.pdb
