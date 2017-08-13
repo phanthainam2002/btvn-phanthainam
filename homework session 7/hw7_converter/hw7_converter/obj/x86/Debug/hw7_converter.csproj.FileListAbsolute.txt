@@ -1,0 +1,5 @@
+C:\Users\Phan Thai Nam\Documents\Projects\hw7_converter\hw7_converter\bin\Debug\hw7_converter.exe
+C:\Users\Phan Thai Nam\Documents\Projects\hw7_converter\hw7_converter\bin\Debug\hw7_converter.pdb
+C:\Users\Phan Thai Nam\Documents\Projects\hw7_converter\hw7_converter\obj\x86\Debug\hw7_converter.csprojResolveAssemblyReference.cache
+C:\Users\Phan Thai Nam\Documents\Projects\hw7_converter\hw7_converter\obj\x86\Debug\hw7_converter.exe
+C:\Users\Phan Thai Nam\Documents\Projects\hw7_converter\hw7_converter\obj\x86\Debug\hw7_converter.pdb

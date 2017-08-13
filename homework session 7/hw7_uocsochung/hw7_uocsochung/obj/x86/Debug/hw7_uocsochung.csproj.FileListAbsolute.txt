@@ -1,0 +1,5 @@
+C:\Users\Phan Thai Nam\Documents\Projects\hw7_uocsochung\hw7_uocsochung\obj\x86\Debug\hw7_uocsochung.csprojResolveAssemblyReference.cache
+C:\Users\Phan Thai Nam\Documents\Projects\hw7_uocsochung\hw7_uocsochung\bin\Debug\hw7_uocsochung.exe
+C:\Users\Phan Thai Nam\Documents\Projects\hw7_uocsochung\hw7_uocsochung\bin\Debug\hw7_uocsochung.pdb
+C:\Users\Phan Thai Nam\Documents\Projects\hw7_uocsochung\hw7_uocsochung\obj\x86\Debug\hw7_uocsochung.exe
+C:\Users\Phan Thai Nam\Documents\Projects\hw7_uocsochung\hw7_uocsochung\obj\x86\Debug\hw7_uocsochung.pdb
